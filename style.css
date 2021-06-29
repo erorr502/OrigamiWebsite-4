@@ -1,0 +1,129 @@
+  .head{
+    background-color:#E64398;
+    border: double;
+    border-width: 5px;
+    font-family: cursive;
+     }
+     .grid{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  text-align: left;
+  flex-wrap: wrap;
+     }
+
+  .title1{
+    background-color:#E64398;
+    border:double;
+    border-radius: 20px;
+    font-family: cursive;
+
+       }
+  
+  .note{
+    background-color: #E64398;
+    border: dashed;
+    font-family: "monaco", monospace;
+    margin-top: 10px;
+    margin-bottom: 10px;
+     }
+  .menu{
+    background-color: #16FFBD;
+    border: dashed;
+    font-family:"copperplate",fantasy;
+    margin-top: 10px;
+    margin-bottom: 10px;
+     }
+     .menu:hover{
+      transform:scale(1.2);
+    }
+  .subtitle1{
+    background-color: #FFB48F;
+    border: dashed;
+    margin-top: 10px;
+    margin-bottom: 10px;
+       }
+  
+  .camel {
+    border: 1px solid black;
+    margin: 10px;
+    width: 400px;
+    height: 700px;
+    padding: 10px;
+    background-color:#FCCD04;
+    text-align: center;
+  }
+  .camel:hover{
+    transform:scale(1.2);
+  }
+  .chameleon {
+    border: 1px solid black;
+    margin: 10px;
+    width: 400px;
+    height: 700px;
+    padding: 10px;
+    background-color:#F5E6CC;
+    text-align: center;
+  }
+  .chameleon:hover{
+    transform:scale(1.2);
+  }
+  .cicada {
+    border: 1px solid black;
+    margin: 10px;
+    width: 400px;
+    height: 700px;
+    padding: 10px;
+    background-color:#F5E6CC;
+    text-align: center;
+  }
+  .cicada:hover{
+    transform:scale(1.2);
+  }
+  .panda {
+    border: 1px solid black;
+    margin: 10px;
+    width: 400px;
+    height: 700px;
+    padding: 10px;
+    background-color:#FCCD04;
+    text-align: center;
+  }
+  .panda:hover{
+    transform:scale(1.2);
+  }
+  .pigeon {
+    border: 1px solid black;
+    margin: 10px;
+    width: 400px;
+    height: 700px;
+    padding: 10px;
+    background-color:#FCCD04;
+    text-align: center;
+  }
+  .pigeon:hover{
+    transform:scale(1.2);
+  }
+  .teddy {
+    border: 1px solid black;
+    margin: 10px;
+    width: 400px;
+    height: 700px;
+    padding: 10px;
+    background-color:#F5E6CC;
+    text-align: center;
+  }
+  .teddy:hover{
+    transform:scale(1.2);
+  }
+ a:link{
+   color:#ff0000;
+ }
+ a:visited{
+  color:#FFFFFF;
+}
+
+
+  
+  
+ 
